@@ -1,10 +1,6 @@
-  int n,power,i,num;
-    cout<<"Enter n: ";
-    cin>>n;
-    cout<<"Enter power: ";
-    cin>>power;
-    num=n;
-    for(i=1;i<power;i++ ){
-        num=num*n;
-    }
-    cout<<num;
+or(row=1;row<=5;row++){
+        for(col=1;col<=row;col++){
+            cout<<"* ";
+        }
+        cout<<endl;
+    } 
