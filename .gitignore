@@ -1,0 +1,16 @@
+.DS_Store
+tempCodeRunnerFile.cpp
+*.o
+*.out
+*.exe
+# compiled binaries (extension-less, named after the source file)
+/data
+/First
+/for
+/if_else
+/loop
+/pattern
+/pattern2
+/pattern3
+/pattern4
+/second
